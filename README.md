@@ -1,4 +1,4 @@
-Este es el archivo README para la aplicación de la página única (SPA) diseñada para enseñar el Proceso de Gestión de Recursos y los principios de Elder Maynes en español.
+Página  diseñada para enseñar el Proceso de Gestión de Recursos y los principios de Elder Maynes en español.
 
 ---
 
